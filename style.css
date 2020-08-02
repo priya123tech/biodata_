@@ -1,0 +1,19 @@
+*{margin:0; padding:0; box-sizing:border-box;}
+
+
+p{
+    font-size: 0.9rem;
+    line-height:1.6;
+    font-weight:600;
+    color: gray;
+
+}
+a{
+    font-size: 1.3rem;
+    color: darkturquoise;
+   
+}
+h3{
+    font-size: 1.4rem;
+    
+}
